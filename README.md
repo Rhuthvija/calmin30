@@ -10,7 +10,7 @@
 
 It offers a complete **30-second mental reset toolkit** featuring guided breathing, grounding techniques, and focus tools — all wrapped in a soft, airy, and peaceful interface.
 
-> 💬 "You're Safe, Just Breathe"
+> "You're Safe, Just Breathe"
 
 ---
 
@@ -27,7 +27,7 @@ It offers a complete **30-second mental reset toolkit** featuring guided breathi
 
 ---
 
-## 🎯 User Experience Vision
+## User Experience Vision
 
 The app is designed to feel like a **safe digital space**.
 
@@ -43,7 +43,7 @@ The goal is not just functionality — but **emotional comfort through design**.
 
 ---
 
-## 🧩 UI Highlights
+## UI Highlights
 
 - 🌸 **CalmIn30** branding on the top-left  
 - ▶️ **Start Now** button on the top-right  
@@ -52,7 +52,7 @@ The goal is not just functionality — but **emotional comfort through design**.
 
 ---
 
-## 🤖 AI-Assisted Development
+## AI-Assisted Development
 
 This project was built using an AI-assisted workflow.
 
