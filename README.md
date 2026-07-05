@@ -10,13 +10,13 @@ The platform combines an interactive web application with **FocusIQ**, a machine
 
 ## Live Web Application
 
-🔗 **Website:** *([add your deployed website link here](https://calmin30-m7o.caffeine.xyz/))*
+🔗 **Website:** *([calmIn30](https://calmin30-m7o.caffeine.xyz/))*
 
 ---
 
 ## Machine Learning Model
 
-📓 **FocusIQ Notebook:** *([add your notebook link here](https://drive.google.com/file/d/1-fhg6pCtatUlo8im9Xaz6Gjy2zRf1blt/view?usp=sharing))*
+📓 **FocusIQ Notebook:** *([focusIQ_score](https://drive.google.com/file/d/1-fhg6pCtatUlo8im9Xaz6Gjy2zRf1blt/view?usp=sharing))*
 
 ---
 
