@@ -187,6 +187,58 @@ The recommendations are intended to help users:
 - Reduce procrastination through small, achievable changes.
 - Develop greater self-awareness regarding daily habits.
 
+## Understanding the Results
+
+FocusIQ generates two outputs:
+
+### 🎯 Focus Score
+
+A numerical score representing the user's estimated ability to concentrate based on their current habits.
+
+| Score | Interpretation |
+|-------:|----------------|
+| **80–100** | Excellent focus and healthy productivity habits. |
+| **60–79** | Good focus, with room for improvement. |
+| **40–59** | Moderate focus. Some daily habits may be affecting productivity. |
+| **Below 40** | Low focus. Lifestyle changes are recommended to improve concentration. |
+
+---
+
+### ⚠️ Procrastination Risk
+
+The model also classifies the likelihood of procrastination into three categories:
+
+- 🟢 **Low Risk** – Consistent study habits and healthy routines.
+- 🟡 **Medium Risk** – Some habits may be reducing productivity.
+- 🔴 **High Risk** – Strong indicators of procrastination; targeted interventions are recommended.
+
+---
+
+## Personalized Recommendations
+
+Based on the predicted Focus Score and Procrastination Risk, FocusIQ provides practical suggestions to help users improve their daily routines.
+
+Examples include:
+
+- 😴 Improve sleep duration and maintain a consistent sleep schedule.
+- 📱 Reduce phone usage during study sessions.
+- 📚 Break study sessions into shorter, focused intervals.
+- 🌿 Practice grounding or breathing exercises before studying.
+- 🚶 Include light physical activity or stretching during breaks.
+- 🎯 Set small, achievable daily goals to maintain motivation.
+
+These recommendations are intended to encourage gradual habit improvements rather than immediate changes.
+
+---
+
+## Conclusion
+
+FocusIQ demonstrates how machine learning can be applied to everyday behavioural data to generate meaningful insights into student productivity.
+
+Rather than replacing personal judgment, the model acts as a supportive tool that helps users recognize patterns in their daily habits and make informed decisions to improve focus, reduce procrastination, and build healthier study routines.
+
+When integrated with the CalmIn30 web application, these predictions become more actionable by combining AI-driven insights with practical wellness techniques such as guided breathing, grounding exercises, and focus timers.
+
 ## Future Improvements
 
 - Improve model performance using larger datasets
@@ -196,6 +248,7 @@ The recommendations are intended to help users:
 - Deploy the model as an API for seamless web integration
 
 ---
+
 
 ## Author
 
