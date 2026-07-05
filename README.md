@@ -32,11 +32,8 @@ FocusIQ_Model.ipynb
 
 ---
 
-## How Everything Works
+## How the model works
 
-Calmin30 Web Application
-
-+
 
 Collects User Inputs
 
