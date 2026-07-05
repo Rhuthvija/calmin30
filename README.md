@@ -35,22 +35,32 @@ FocusIQ_Model.ipynb
 ## How Everything Works
 
 Calmin30 Web Application
+
 +
+
 Collects User Inputs
 
+
 ↓
+
 
 FocusIQ ML Model
 
+
 ↓
+
 
 Predicts
 
+
 • Focus Score
+
 
 • Procrastination Risk
 
+
 Returns Personalized Insights
+
 
 The web application acts as the user interface, while **FocusIQ** serves as the machine learning engine responsible for generating predictions.
 
