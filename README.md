@@ -1,93 +1,78 @@
-# 🌸 CalmIn30 – 30-Second Grounding Web App
+# Calmin30
 
-🔗 Live Demo: https://calmin30-m7o.caffeine.xyz/#grounding
+### AI-Powered Student Productivity & Focus Prediction Platform
 
----
+Calmin30 is an AI-powered productivity platform designed to help students understand and improve their focus, study habits, and productivity.
 
-## ✨ Overview
-
-**CalmIn30** is a calming web experience designed to help users reset their mind in moments of stress, anxiety, or overwhelm.
-
-It offers a complete **30-second mental reset toolkit** featuring guided breathing, grounding techniques, and focus tools — all wrapped in a soft, airy, and peaceful interface.
-
-> "You're Safe, Just Breathe"
+The platform combines an interactive web application with **FocusIQ**, a machine learning model that predicts a student's Focus Score and risk of procrastination based on their daily habits.
 
 ---
 
-## 🧘 Features
+## Live Web Application
 
-- 🌬️ **Guided Box Breathing** for instant calm  
-- 🧠 **5-4-3-2-1 Grounding Technique**  
-- ⏱️ **ADHD Focus Reset Timer**  
-- 🫀 **Body Scan Section** for relaxation  
-- 🌧️ **Rain Sound Toggle** (floating button)  
-- 🌲 **Ambient Sound Options** *(forest, wind, Tibetan bowls)*  
-- 🌙 **Dark Mode** with calming night sounds *(Om chanting + crickets)*  
-- 🎨 Soft, minimal, and airy UI design  
+🔗 **Website:** *([add your deployed website link here](https://calmin30-m7o.caffeine.xyz/))*
 
 ---
 
-## User Experience Vision
+## Machine Learning Model
 
-The app is designed to feel like a **safe digital space**.
-
-- A gentle interface that reduces overwhelm  
-- Calming sounds and subtle animations  
-- A "Just Breathe" text with a soft wind-like motion  
-- A clean header with sections for:
-  - Anxiety  
-  - Panic Attacks  
-  - ADHD  
-
-The goal is not just functionality — but **emotional comfort through design**.
+📓 **FocusIQ Notebook:** *([add your notebook link here](https://drive.google.com/file/d/1-fhg6pCtatUlo8im9Xaz6Gjy2zRf1blt/view?usp=sharing))*
 
 ---
 
-## UI Highlights
+## Repository Structure
+README.md
+WEB_APPLICATION.md
+FOCUSIQ_MODEL.md
+FocusIQ_Model.ipynb
 
-- 🌸 **CalmIn30** branding on the top-left  
-- ▶️ **Start Now** button on the top-right  
-- 🌙 **Dark Mode toggle** integrated into the header  
-- 🌧️ Floating rain sound button for instant ambience  
-
----
-
-## AI-Assisted Development
-
-This project was built using an AI-assisted workflow.
-
-I used **Caffeine**, a self-writing interface, to:
-- Rapidly prototype and iterate ideas  
-- Design UI components and interactions  
-- Experiment with calming user experiences  
-
-This approach allowed me to focus more on:
-> ✨ User emotion, design flow, and real-world impact
-
-rather than just writing code line-by-line.
 
 ---
 
-## 🛠️ Tech Stack
+## How Everything Works
 
-- HTML / CSS / JavaScript  
-- Caffeine (AI-assisted development)
+Calmin30 Web Application
++
+Collects User Inputs
+↓
+FocusIQ ML Model
+↓
+Predicts
+• Focus Score
+• Procrastination Risk
+Returns Personalized Insights
+
+The web application acts as the user interface, while **FocusIQ** serves as the machine learning engine responsible for generating predictions.
 
 ---
 
-## 🚀 Future Improvements
+## Documentation
 
-- 🎵 More customizable soundscapes  
-- 🔊 Voice-guided calming sessions  
-- 📱 Mobile-first UI refinements  
-- 📊 Mood tracking / session tracking  
+- 📘 WEB_APPLICATION.md
+- 🤖 FOCUSIQ_MODEL.md
 
 ---
 
-## ❤️ Final Note
+## Tech Stack
 
-Take a pause.  
-Breathe in.  
-Breathe out.  
+### Frontend
 
-You’re safe.
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+
+- Python
+- Flask
+
+### Machine Learning
+
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+Developed by
+**Rhuthvija Allavala**
+
