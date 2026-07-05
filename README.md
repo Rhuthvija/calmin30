@@ -22,8 +22,11 @@ The platform combines an interactive web application with **FocusIQ**, a machine
 
 ## Repository Structure
 README.md
+
 WEB_APPLICATION.md
+
 FOCUSIQ_MODEL.md
+
 FocusIQ_Model.ipynb
 
 
