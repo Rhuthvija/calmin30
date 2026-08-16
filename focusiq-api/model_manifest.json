@@ -1,0 +1,31 @@
+{
+  "sklearn_version": "1.8.0",
+  "feature_order": [
+    "study_hours",
+    "sleep_hours",
+    "phone_usage_hrs",
+    "stress_level",
+    "motivation_level",
+    "failures",
+    "freetime",
+    "goout",
+    "famrel",
+    "absences"
+  ],
+  "procrastination_classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "focus_score_range": [
+    0,
+    100
+  ],
+  "files": {
+    "focus_rf_model.joblib": "RandomForestRegressor -> predicts focus_score (0-100)",
+    "procrastination_svm_model.joblib": "SVC (probability=True) -> predicts procrastination_risk class",
+    "feature_scaler.joblib": "StandardScaler -- MUST be applied to raw inputs before either model",
+    "procrastination_label_encoder.joblib": "LabelEncoder -- maps SVM's numeric output back to Low/Medium/High",
+    "feature_order.joblib": "list -- exact column order both models expect"
+  }
+}
