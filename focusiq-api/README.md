@@ -10,7 +10,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Then it's live at `http://127.0.0.1:5000`.
+Then it's live at `http://127.0.0.1:5001` (or the port in the `PORT` environment variable).
 
 ## Endpoints
 
@@ -18,7 +18,18 @@ Then it's live at `http://127.0.0.1:5000`.
 Quick check that the service is up and which fields `/predict` expects.
 
 ### `POST /predict`
-Body (all 10 fields required, all numeric):
+Body (all 8 fields required, all numeric; values outside the ranges below are clipped):
+
+| Field | Range |
+| --- | --- |
+| `study_hours` | 0–12 |
+| `sleep_hours` | 0–12 |
+| `phone_usage_hrs` | 0–14 |
+| `stress_level` | 1–10 |
+| `motivation_level` | 1–10 |
+| `freetime` | 1–5 |
+| `goout` | 1–5 |
+| `exercise_done` | 0 or 1 |
 
 ```json
 {
@@ -27,11 +38,9 @@ Body (all 10 fields required, all numeric):
   "phone_usage_hrs": 3,
   "stress_level": 4,
   "motivation_level": 7,
-  "failures": 0,
   "freetime": 3,
   "goout": 2,
-  "famrel": 4,
-  "absences": 2
+  "exercise_done": 1
 }
 ```
 

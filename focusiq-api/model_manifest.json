@@ -6,11 +6,9 @@
     "phone_usage_hrs",
     "stress_level",
     "motivation_level",
-    "failures",
     "freetime",
     "goout",
-    "famrel",
-    "absences"
+    "exercise_done"
   ],
   "procrastination_classes": [
     "High",
